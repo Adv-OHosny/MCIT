@@ -1,0 +1,9 @@
+C:\MCIT\MCIT\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMCIT\Files\Bin\UsrMCIT.dll
+C:\MCIT\MCIT\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMCIT\Files\Bin\UsrMCIT.pdb
+C:\MCIT\MCIT\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMCIT\Files\obj\Release\UsrMCIT.csproj.AssemblyReference.cache
+C:\MCIT\MCIT\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMCIT\Files\obj\Release\UsrMCIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\MCIT\MCIT\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMCIT\Files\obj\Release\UsrMCIT.AssemblyInfoInputs.cache
+C:\MCIT\MCIT\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMCIT\Files\obj\Release\UsrMCIT.AssemblyInfo.cs
+C:\MCIT\MCIT\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMCIT\Files\obj\Release\UsrMCIT.csproj.CoreCompileInputs.cache
+C:\MCIT\MCIT\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMCIT\Files\obj\Release\UsrMCIT.dll
+C:\MCIT\MCIT\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMCIT\Files\obj\Release\UsrMCIT.pdb
