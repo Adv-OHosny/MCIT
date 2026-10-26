@@ -49,7 +49,8 @@
   "S4": "64748221-2d29-4ad9-94e7-735c89cc80f6",
   "E6": true,
   "E20": true,
-  "E17": "UsrReportId"
+  "E17": "UsrReportId",
+  "E18": "UsrReportUsrReportName"
 }
 ~ MetaData.Schema.D2 [
   "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
@@ -61,6 +62,36 @@
   "00eab14a-3b23-660c-cb14-3cb8e6595e48",
   "c0f07b61-b287-57c3-f263-17ada660f84b",
   "b45f5199-80c6-362c-d42a-d9306c03ee35"
+]
++ MetaData.Schema.D6 {
+  "UId": "df09bfc9-874f-11ab-f115-097f0d155e67",
+  "A2": "UsrRoleReportUnique",
+  "A3": "fcd02088-c9c0-49bb-835b-8f9beeccb6db",
+  "A4": "fcd02088-c9c0-49bb-835b-8f9beeccb6db",
+  "A5": "3daa8e4e-2a22-4e20-af21-674c5227b6dc",
+  "F1": false,
+  "F2": true,
+  "F4": [
+    {
+      "UId": "b78c3020-9ef0-19b8-8c79-47f7223007ec",
+      "A2": "IndexColumn_UsrMCITRole",
+      "A3": "fcd02088-c9c0-49bb-835b-8f9beeccb6db",
+      "A4": "fcd02088-c9c0-49bb-835b-8f9beeccb6db",
+      "A5": "3daa8e4e-2a22-4e20-af21-674c5227b6dc",
+      "G1": "c0f07b61-b287-57c3-f263-17ada660f84b"
+    },
+    {
+      "UId": "9ad9d0bb-1492-6e95-b856-08c61ebe1f1b",
+      "A2": "IndexColumn_UsrReport",
+      "A3": "fcd02088-c9c0-49bb-835b-8f9beeccb6db",
+      "A4": "fcd02088-c9c0-49bb-835b-8f9beeccb6db",
+      "A5": "3daa8e4e-2a22-4e20-af21-674c5227b6dc",
+      "G1": "b45f5199-80c6-362c-d42a-d9306c03ee35"
+    }
+  ]
+}
+~ MetaData.Schema.D6 [
+  "df09bfc9-874f-11ab-f115-097f0d155e67"
 ]
 = MetaData.Schema.D20.A2 "UsrMCITRoleReportingPermissionEvents"
 + MetaData.Schema.D20.FA1 false

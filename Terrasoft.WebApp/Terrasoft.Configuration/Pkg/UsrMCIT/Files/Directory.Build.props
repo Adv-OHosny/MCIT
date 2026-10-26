@@ -20,6 +20,8 @@
 		<Compile Include="$(PkgPath)/UsrMCIT/Schemas/UsrMCITPermissionScreen/UsrMCITPermissionScreen.cs" Condition="Exists('$(PkgPath)/UsrMCIT/Schemas/UsrMCITPermissionScreen/UsrMCITPermissionScreen.cs')" />
 		<Compile Include="$(PkgPath)/UsrMCIT/Schemas/UsrMCITRequestStatus/UsrMCITRequestStatus.cs" Condition="Exists('$(PkgPath)/UsrMCIT/Schemas/UsrMCITRequestStatus/UsrMCITRequestStatus.cs')" />
 		<Compile Include="$(PkgPath)/UsrMCIT/Schemas/UsrMCITRequestType/UsrMCITRequestType.cs" Condition="Exists('$(PkgPath)/UsrMCIT/Schemas/UsrMCITRequestType/UsrMCITRequestType.cs')" />
+		<Compile Include="$(PkgPath)/UsrMCIT/Schemas/UsrMCITResourceCategory/UsrMCITResourceCategory.cs" Condition="Exists('$(PkgPath)/UsrMCIT/Schemas/UsrMCITResourceCategory/UsrMCITResourceCategory.cs')" />
+		<Compile Include="$(PkgPath)/UsrMCIT/Schemas/UsrMCITResourceContract/UsrMCITResourceContract.cs" Condition="Exists('$(PkgPath)/UsrMCIT/Schemas/UsrMCITResourceContract/UsrMCITResourceContract.cs')" />
 		<Compile Include="$(PkgPath)/UsrMCIT/Schemas/UsrMCITResourceType/UsrMCITResourceType.cs" Condition="Exists('$(PkgPath)/UsrMCIT/Schemas/UsrMCITResourceType/UsrMCITResourceType.cs')" />
 		<Compile Include="$(PkgPath)/UsrMCIT/Schemas/UsrMCITRole/UsrMCITRole.cs" Condition="Exists('$(PkgPath)/UsrMCIT/Schemas/UsrMCITRole/UsrMCITRole.cs')" />
 		<Compile Include="$(PkgPath)/UsrMCIT/Schemas/UsrMCITRoleAdministrativePermission/UsrMCITRoleAdministrativePermission.cs" Condition="Exists('$(PkgPath)/UsrMCIT/Schemas/UsrMCITRoleAdministrativePermission/UsrMCITRoleAdministrativePermission.cs')" />

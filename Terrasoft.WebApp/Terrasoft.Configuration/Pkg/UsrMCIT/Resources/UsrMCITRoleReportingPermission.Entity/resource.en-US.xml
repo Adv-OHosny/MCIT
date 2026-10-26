@@ -6,7 +6,6 @@
 			<Item Name="Columns.UsrCanView.Caption" Value="Can View" />
 			<Item Name="Columns.UsrMCITRole.Caption" Value="MCIT Role" />
 			<Item Name="Columns.UsrReport.Caption" Value="Report" />
-			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
 		</Items>
 	</Group>
 </Resources>
