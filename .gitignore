@@ -1,0 +1,21 @@
+﻿# Ignore everything at the project root
+/*
+
+# Keep this ignore file
+!/.gitignore
+
+# Allow only the UsrMCIT package
+!/Terrasoft.WebApp/
+/Terrasoft.WebApp/*
+!/Terrasoft.WebApp/Terrasoft.Configuration/
+/Terrasoft.WebApp/Terrasoft.Configuration/*
+!/Terrasoft.WebApp/Terrasoft.Configuration/Pkg/
+/Terrasoft.WebApp/Terrasoft.Configuration/Pkg/*
+!/Terrasoft.WebApp/Terrasoft.Configuration/Pkg/UsrMCIT/
+
+# Ignore local development and build output inside the package
+**/.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
