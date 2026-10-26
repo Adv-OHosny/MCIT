@@ -8,7 +8,6 @@
 			<Item Name="Columns.UsrReportCode.Caption" Value="Report Code" />
 			<Item Name="Columns.UsrReportName.Caption" Value="Report Name" />
 			<Item Name="Columns.UsrSortOrder.Caption" Value="Sort Order" />
-			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
 		</Items>
 	</Group>
 </Resources>
